@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Mohammad Sufyan Azam</h1>
+<h1 align="center">Hi, I'm Mohammad Sufyan Azam</h1>
 <h3 align="center">An enthusiastic Computer Science undergraduate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-sufyan-azam&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-sufyan-azam" /> </p>
