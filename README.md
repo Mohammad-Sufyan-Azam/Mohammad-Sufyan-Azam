@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sufyan azam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufyan azam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sufyan-azam-aa0212202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufyan azam" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/iiitdb_133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iiitdb_133" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@azamsufyan89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@azamsufyan89" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/azamsufyan89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azamsufyan89" height="30" width="40" /></a>
