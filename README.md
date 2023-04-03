@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sufyan20312@iiitd.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vzEA4Pa-Adw4_LAEbUMdhoPVAhcUAdHT/view?usp=sharing](https://drive.google.com/file/d/1vzEA4Pa-Adw4_LAEbUMdhoPVAhcUAdHT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1T00hGWNqK6kGBgTg-5dpu09w-7vDCQv6/view?usp=sharing](https://drive.google.com/file/d/1T00hGWNqK6kGBgTg-5dpu09w-7vDCQv6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
