@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Quizzle](https://github.com/ishaan20068/QUIZZLE---content-based-quiz-generator/blob/main/temp.py)
 
-- 🌱 I’m currently learning **DSA, React, Angular, ML, Typescript.**
+- 🌱 I’m currently learning **DSA, React, and ML.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohammad-Sufyan-Azam](https://github.com/Mohammad-Sufyan-Azam)
 
